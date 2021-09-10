@@ -1,0 +1,56 @@
+type,rarity,addon
+Flashlight,Common,Battery
+Flashlight,Common,Leather Grip
+Flashlight,Common,Power Bulb
+Flashlight,Common,Wide Lens
+Flashlight,Uncommon,Focus Lens
+Flashlight,Uncommon,Heavy Duty Battery
+Flashlight,Uncommon,Low Amp Filament
+Flashlight,Uncommon,Rubber Grip
+Flashlight,Uncommon,Tir Optic
+Flashlight,Rare,Intense Halogen
+Flashlight,Rare,Long Life Battery
+Flashlight,Very Rare,High-End Sapphire Lens
+Flashlight,Ultra Rare,Odd Bulb
+Key,Common,Prayer Rope
+Key,Uncommon,Eroded Token
+Key,Uncommon,Prayer Beads
+Key,Uncommon,Scratched Pearl
+Key,Rare,Gold Token
+Key,Very Rare,Blood Amber
+Key,Very Rare,Milky Glass
+Key,Very Rare,Unique Wedding Ring
+Key,Very Rare,Weaved Ring
+Map,Common,Map Addendum
+Map,Uncommon,Glass Bead
+Map,Uncommon,Red Twine
+Map,Uncommon,Retardant Jelly
+Map,Uncommon,Unusual Stamp
+Map,Uncommon,Yellow Wire
+Map,Rare,Black Silk Cord
+Map,Rare,Odd Stamp
+Map,Very Rare,Crystal Bead
+Med-Kit,Common,Bandages
+Med-Kit,Common,Butterfly Tape
+Med-Kit,Common,Rubber Gloves
+Med-Kit,Uncommon,Gauze Roll
+Med-Kit,Uncommon,Medical Scissors
+Med-Kit,Uncommon,Needle & Thread
+Med-Kit,Uncommon,Self Adherent Wrap
+Med-Kit,Uncommon,Sponge
+Med-Kit,Rare,Abdominal Dressing
+Med-Kit,Rare,Gel Dressings
+Med-Kit,Rare,Surgical Suture
+Med-Kit,Very Rare,Styptic Agent
+Med-Kit,Ultra Rare,Anti-Hemorrhagic Syringe
+Toolbox,Common,Clean Rag
+Toolbox,Common,Instructions
+Toolbox,Common,Scraps
+Toolbox,Uncommon,Cutting Wire
+Toolbox,Uncommon,Protective Gloves
+Toolbox,Uncommon,Socket Swivels
+Toolbox,Uncommon,Spring Clamp
+Toolbox,Uncommon,Wire Spool
+Toolbox,Rare,Grip Wrench
+Toolbox,Rare,Hacksaw
+Toolbox,Ultra Rare,Brand New Part

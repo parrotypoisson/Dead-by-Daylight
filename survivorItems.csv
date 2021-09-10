@@ -1,0 +1,19 @@
+type,rarity,item
+Flashlight,Uncommon,Flashlight
+Flashlight,Rare,Sport Flashlight
+Flashlight,Very Rare,Utility Flashlight
+Key,Rare,Broken Key
+Key,Very Rare,Dull Key
+Key,Ultra Rare,Skeleton Key
+Map,Rare,Map
+Map,Ultra Rare,Rainbow Map
+Med-Kit,Common,Camping Aid Kit
+Med-Kit,Uncommon,First Aid Kit
+Med-Kit,Rare,Emergency Med-Kit
+Med-Kit,Very Rare,Ranger Med-Kit
+Toolbox,Common,Worn-Out Tools
+Toolbox,Uncommon,Toolbox
+Toolbox,Rare,Commodious Toolbox
+Toolbox,Rare,Mechanic's Toolbox
+Toolbox,Very Rare,Alex's Toolbox
+Toolbox,Very Rare,Engineer's Toolbox
